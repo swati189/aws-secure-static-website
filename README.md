@@ -14,3 +14,6 @@ This project demonstrates hosting a static website using Amazon S3, improving pe
 
 - ## 🌐 Live Website
 https://dxildn51aww32.cloudfront.net
+
+## 📸 Website Preview
+![Website Screenshot](website.png)
