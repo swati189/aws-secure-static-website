@@ -11,3 +11,6 @@ This project demonstrates hosting a static website using Amazon S3, improving pe
 - Static website hosting
 - Global CDN for fast delivery
 - Protection against common web attacks
+
+- ## 🌐 Live Website
+https://dxildn51aww32.cloudfront.net
